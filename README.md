@@ -1,4 +1,4 @@
-👋 Hi, I’m Persis 
-💻 I’m familiar with Python, Java, and C++, and I love building tools to test my skills.
-🚀 I’m currently exploring data science, full-stack development, and  AI.
-📚 Always learning — one pull request at a time.
+-👋 Hi, I’m Persis 
+-💻 I’m familiar with Python, Java, and C++, and I love building tools to test my skills.
+-🚀 I’m currently exploring data science, full-stack development, and  AI.
+-📚 Always learning — one pull request at a time.
